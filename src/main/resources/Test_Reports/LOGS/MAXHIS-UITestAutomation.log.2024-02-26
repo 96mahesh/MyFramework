@@ -1,0 +1,263 @@
+2024-02-26 12:06:45 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 12:06:47 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 12:06:48 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 12:06:51 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 12:06:53 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 12:07:00 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 12:07:16 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 12:07:16 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 12:30:33 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 12:30:36 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 12:30:36 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 12:31:04 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 12:31:05 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 12:31:12 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 12:31:28 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 12:31:28 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 12:32:25 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 12:32:28 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 12:32:28 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 12:32:42 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 12:32:43 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 12:32:51 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 12:32:53 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 12:32:59 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 12:33:02 INFO  BaseTest:50 - ---INFO--- ---ERROR--- ---FAIL---<b><------ Test case failed for test:loginTestCase -----><b>
+2024-02-26 12:33:02 INFO  BaseTest:50 - ---INFO--- ---FAIL--- ---FAIL---<b><------ Test case failed for test:loginTestCase -----><b>
+2024-02-26 12:33:02 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 12:33:55 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 12:33:58 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 12:33:58 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 12:34:03 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 12:34:04 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 12:34:11 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 12:34:13 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 12:34:19 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 12:34:22 INFO  BaseTest:50 - ---INFO--- ---ERROR--- ---FAIL---<b><------ Test case failed for test:loginTestCase -----><b>
+2024-02-26 12:34:22 INFO  BaseTest:50 - ---INFO--- ---FAIL--- ---FAIL---<b><------ Test case failed for test:loginTestCase -----><b>
+2024-02-26 12:34:22 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 12:34:59 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 12:35:02 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 12:35:02 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 12:35:06 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 12:35:07 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 12:35:14 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 12:35:17 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 12:35:23 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 12:35:26 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 12:35:26 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 12:36:54 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 12:36:57 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 12:36:57 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 12:37:01 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 12:37:02 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 12:37:10 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 12:37:11 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 12:37:17 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 12:37:20 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 12:37:20 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 12:39:10 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 12:39:12 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 12:39:12 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 12:39:17 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 12:39:18 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 12:39:25 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 12:39:27 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 12:39:33 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 12:39:36 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 12:39:36 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 12:41:38 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 12:41:43 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 12:41:43 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 12:41:50 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 12:41:51 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 12:41:58 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 12:42:00 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 12:42:06 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 12:42:09 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 12:42:09 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 12:45:13 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 12:45:16 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 12:45:16 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 12:45:19 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 12:45:21 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 12:45:28 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 12:45:30 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 12:45:35 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 12:45:38 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 12:45:38 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 12:47:32 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 12:47:34 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 12:47:34 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 12:47:42 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 12:47:43 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 12:47:50 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 12:47:52 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 12:47:59 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 12:48:02 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 12:48:02 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 12:49:03 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 12:49:06 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 12:49:06 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 12:49:09 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 12:49:11 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 12:49:18 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 12:49:20 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 12:49:25 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 12:49:28 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 12:49:28 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 12:51:24 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 12:51:29 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 12:51:29 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 12:51:36 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 12:51:37 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 12:51:44 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 12:51:46 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 12:51:51 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 12:51:54 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 12:51:54 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 12:53:48 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 12:53:52 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 12:53:52 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 12:53:59 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 12:54:00 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 12:54:08 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 12:54:10 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 12:54:16 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 12:54:19 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 12:54:19 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 12:55:08 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 12:55:11 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 12:55:11 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 12:55:15 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 12:55:16 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 12:55:23 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 12:55:25 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 12:55:30 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 12:55:33 INFO  BaseTest:50 - ---INFO--- ---ERROR--- ---FAIL---<b><------ Test case failed for test:loginTestCase -----><b>
+2024-02-26 12:55:34 INFO  BaseTest:50 - ---INFO--- ---FAIL--- ---FAIL---<b><------ Test case failed for test:loginTestCase -----><b>
+2024-02-26 12:55:34 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 14:13:48 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 14:13:51 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 14:13:52 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 14:13:56 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 14:13:58 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 14:14:05 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 14:14:07 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 14:14:13 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 14:14:16 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 14:14:16 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 14:28:45 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 14:28:48 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 14:28:48 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 14:28:52 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 14:28:53 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 14:29:00 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 14:29:02 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 14:29:08 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 14:29:11 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 14:29:11 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 17:11:53 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 17:11:56 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 17:11:56 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 17:12:02 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 17:12:03 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 17:12:10 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 17:12:12 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 17:12:17 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 17:12:20 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 17:12:20 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 17:18:11 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 17:18:13 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 17:18:13 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 17:18:18 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 17:18:20 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 17:18:27 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 17:18:29 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 17:18:34 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 17:18:37 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 17:18:37 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 21:06:34 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 21:06:39 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 21:06:39 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 21:06:45 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 21:06:46 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 21:06:53 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 21:06:55 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 21:07:01 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 21:07:04 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 21:07:04 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 21:13:05 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 21:13:09 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 21:13:09 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 21:13:14 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 21:13:15 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 21:13:22 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 21:13:24 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 21:13:30 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 21:13:33 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 21:13:33 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 21:13:57 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 21:14:00 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 21:14:00 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 21:14:04 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 21:14:05 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 21:14:13 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 21:14:14 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 21:14:20 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 21:14:23 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 21:14:23 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
+2024-02-26 21:14:58 INFO  BaseTest:50 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-02-26 21:15:01 INFO  BaseTest:50 - ---INFO--- ---INFO---Strating test case loginTestCase
+2024-02-26 21:15:01 INFO  BaseTest:50 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-02-26 21:15:06 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:test1@truboardpartners.com on element:Sign-In-email, Phone or Skype text field
+2024-02-26 21:15:07 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Next button
+2024-02-26 21:15:14 INFO  BaseTest:50 - ---INFO--- ---INFO--- Entered text:Kuz16929 on element:Password text field
+2024-02-26 21:15:16 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:Sign-In button
+2024-02-26 21:15:21 INFO  BaseTest:50 - ---INFO--- ---INFO--- Clicked on element:No button of Stay Sign-In
+2024-02-26 21:15:24 INFO  BaseTest:50 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:loginTestCase -----><b>
+2024-02-26 21:15:24 INFO  BaseTest:50 - ---INFO--- ---INFO---Test Case : loginTestCase finished
